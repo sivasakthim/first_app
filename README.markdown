@@ -1,6 +1,6 @@
 This is just a test app.
 This will be wiped off at any moment
-
+here
 
 Creating vivid-sunrise-863... done, stack is bamboo-ree-1.8.7
 http://vivid-sunrise-863.heroku.com/ | git@heroku.com:vivid-sunrise-863.git
@@ -34,3 +34,7 @@ gem install autotest-growl -v 0.2.4
 vi .autotest
 require 'autotest/growl'
 require 'autotest/fsevent'
+
+
+
+Red, Green, Refactor cycle

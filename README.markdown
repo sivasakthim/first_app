@@ -36,5 +36,7 @@ require 'autotest/growl'
 require 'autotest/fsevent'
 
 
+1
+2
 
 Red, Green, Refactor cycle
